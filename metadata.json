@@ -1,0 +1,6 @@
+{
+  "name": "LeafSense AI",
+  "description": "Real-time AI-powered leaf analysis using your camera. Identify plants, analyze structure, and assess health instantly.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
